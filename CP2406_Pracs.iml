@@ -9,6 +9,12 @@
       <sourceFolder url="file://$MODULE_DIR$/Prac_03/Part2/CodeInFigures" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Prac_03/Part2/DebuggingExercises" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Prac_03/Part2/ProgrammingExercises" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Prac_04/Part_1/CodeInFigures" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Prac_04/Part_1/DebuggingExercises" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Prac_04/Part_1/ProgrammingExercises" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Prac_04/Part_2/CodeInFigures" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Prac_04/Part_2/DebuggingExercises" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Prac_04/Part_2/ProgrammingExercises" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
