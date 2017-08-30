@@ -6,19 +6,19 @@ Display every perfect number from 1  through 1,000. A perfect number is one that
 
 public class Perfect {
     public static void main(String[] args) {
-        int perfectDivisibleSum = 0;
-        int LOW = 0;
+        int LOW = 1;
         int HIGH = 1000;
-        System.out.print("Perfect numbers between ");
+        System.out.print("Perfect numbers are ");
         for (int i=LOW; i <= HIGH; i++){
+            int perfectDivisibleSum = 0;
 
-            for (int divisable_i=0; divisable_i <= (i - 1); divisable_i++){
-                if ((i % divisable_i) == 0){
-                    perfectDivisibleSum = perfectDivisibleSum + divisable_i;
+            for (int divisible_i=1; divisible_i <= (i - 1); divisible_i++){
+                if ((i % divisible_i) == 0){
+                    perfectDivisibleSum = perfectDivisibleSum + divisible_i;
                 }
             }
             if (i == perfectDivisibleSum) {
-                System.out.print(i);
+                System.out.print(i + " ");
             }
         }
     }
