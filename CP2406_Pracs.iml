@@ -21,6 +21,14 @@
       <sourceFolder url="file://$MODULE_DIR$/Prac_05/Part_2/ProgrammingExercises" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Prac_05/Part_2/CodeInFigures" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Prac_05/Part_2/DebuggingExercises" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Prac_05/CodeInFigures" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Prac_05/Debugging" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Prac_06/CodeInFigures" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Prac_06/Debugging" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Prac_06/ProgrammingExercises/q4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Prac_06/ProgrammingExercises/q5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Prac_06/ProgrammingExercises/q9" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Prac_06/ProgrammingExercises/q8" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
