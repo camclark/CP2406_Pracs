@@ -1,0 +1,3 @@
+Dog food,2.40
+Sweetcake,5.40
+Sweetroll,2.11
