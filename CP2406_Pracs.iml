@@ -39,6 +39,9 @@
       <sourceFolder url="file://$MODULE_DIR$/Prac_08/Part_3/ProgrammingExercises" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Prac_08/Part_3/DebuggingExercises" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Prac_08/Part_3/CodeInFigures" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Prac_09/CodeInFigures" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Prac_09/ProgrammingExercises" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Prac_09/DebuggingExercises" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
