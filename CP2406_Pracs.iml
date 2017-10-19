@@ -42,6 +42,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Prac_09/CodeInFigures" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Prac_09/ProgrammingExercises" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Prac_09/DebuggingExercises" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Prac_10/DebuggingExercises" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Prac_10/ProgrammingExercises" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
